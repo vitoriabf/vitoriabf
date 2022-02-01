@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/vitoriabf">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriabf&theme=dracula&show_icons=true" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/vitoriabf">
       <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriabf&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dracula&show_icons=true"
       />
