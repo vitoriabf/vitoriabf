@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 😄 &nbsp; Pronomes: ela/dela
 - 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.uerj.br/">UERJ</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript** e **React**.
+- 🌱 &nbsp; Aprendendo mais sobre **UiPath** e **Python** para RPA.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
