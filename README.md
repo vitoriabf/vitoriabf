@@ -1,6 +1,6 @@
 # Olá, eu sou a Vitória 👋
 
-**Desenvolvedora RPA na [AXA](https://www.axa.com.br/)** — construo e sustento automações que tiram o trabalho repetitivo do caminho das pessoas.
+**Desenvolvedora RPA — construo e sustento automações que tiram o trabalho repetitivo do caminho das pessoas.
 
 - 🤖 Trabalho com **UiPath** e **Python**, do desenvolvimento à sustentação de robôs em produção
 - 🔄 Já atuei em migração de automações da plataforma legada **Automate** para **UiPath**
