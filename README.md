@@ -1,75 +1,59 @@
-<!--
-**vitoriabf/vitoriabf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Vitória 👋
 
-Here are some ideas to get you started:
+**Desenvolvedora RPA na [AXA](https://www.axa.com.br/)** — construo e sustento automações que tiram o trabalho repetitivo do caminho das pessoas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-**Utilidades**
+- 🤖 Trabalho com **UiPath** e **Python**, do desenvolvimento à sustentação de robôs em produção
+- 🔄 Já atuei em migração de automações da plataforma legada **Automate** para **UiPath**
+- 📄 Integro **OCR** e **APIs de IA** em fluxos de automação
+- 🎓 Estudando Ciência da Computação na [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/). [UERJ](https://www.uerj.br/) [trancado] 
+- 🌱 Aprofundando **Flask**, **SQL** e desenvolvimento backend
+- 💬 Pronomes: ela/dela
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+---
 
--->
+## 🛠️ Tecnologias
 
+**Automação**
 
-![](https://komarev.com/ghpvc/?username=vitoriabf&color=006bed)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Automate](https://img.shields.io/badge/Automate-0066CC?style=for-the-badge&logoColor=white)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+**Linguagens**
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 😄 &nbsp; Pronomes: ela/dela
-- 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.uerj.br/">UERJ</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **UiPath** e **Python** para RPA.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+**Web**
 
-**Aplicações e Dados**
-  
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=007396)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**DevOps**
+**Ferramentas**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**Ferramentas de Desenvolvimento**
+---
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+## 📜 Certificações
 
-<br/>
+- **Automation Developer Professional** — UiPath
+- **RPA Developer Foundation** — UiPath
 
-<p align="center">
-  
-  <a href="https://github.com/vitoriabf">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriabf&theme=dracula&show_icons=true" />
-  </a>
+---
 
-  <a href="https://github.com/vitoriabf">
-      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriabf&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dracula&show_icons=true"
-      />
-    </a>
-  
-</p>
+## 📊 GitHub
 
-<br/>
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=vitoriabf&show_icons=true&theme=tokyonight&hide_border=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriabf&layout=compact&theme=tokyonight&hide_border=true)
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+---
 
-[![Linkedin: vitoriabf](https://img.shields.io/badge/-vitoriabf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoriabf/)](https://www.linkedin.com/in/vitoriabf/)
-[![Gmail Badge](https://img.shields.io/badge/-vitoriabfontoura@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitoriabfontoura@gmail.com)](mailto:vitoriabfontoura@gmail.com)
-[![GitHub vitoriabf]( https://img.shields.io/github/followers/vitoriabf?label=follow&style=social)](https://github.com/vitoriabf)
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriabf/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoriabfontoura@gmail.com)
